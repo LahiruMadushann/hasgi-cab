@@ -21,12 +21,17 @@ export default function Hero({ rating }) {
             <span className="text-chalk/70">Private drivers · Airport transfers · Island tours</span>
           </div>
 
-          <h1 className="reveal text-[13vw] leading-[0.88] font-bold tracking-[-0.045em] sm:text-7xl lg:text-[6.6rem]">
+          <h1 className="reveal">
+            <span className="mb-5 block font-mono text-xs font-normal tracking-[0.2em] text-chalk/60 uppercase">
+              Sri Lanka taxi & cab service · Airport transfers · Private driver tours
+            </span>
+            <span className="block text-[13vw] leading-[0.88] font-bold tracking-[-0.045em] sm:text-7xl lg:text-[6.6rem]">
             Sri Lanka,
             <br />
             <span className="font-serif font-normal tracking-[-0.02em] text-neon italic">after dark</span>
             <br />
             &amp; after dawn.
+            </span>
           </h1>
 
           <p className="reveal mt-7 max-w-xl text-lg leading-relaxed text-chalk/65">

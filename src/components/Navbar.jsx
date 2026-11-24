@@ -8,6 +8,7 @@ const LINKS = [
   ["How it works", "#how"],
   ["Fleet", "#fleet"],
   ["Destinations", "#destinations"],
+  ["Routes & fares", "#routes"],
   ["Reviews", "#reviews"],
   ["About", "#about"],
 ];

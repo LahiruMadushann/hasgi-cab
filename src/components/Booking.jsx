@@ -102,7 +102,7 @@ export default function Booking() {
     <section id="booking" ref={sectionRef} className="relative scroll-mt-24 py-24">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <SectionHead index="01" kicker="Your ride, your way" title={<>Where to <em className="font-serif font-normal text-neon">next?</em></>}>
-          Tap places on the map or search below. Your fare updates live — nothing is charged online.
+          Book a taxi, airport transfer or private driver anywhere in Sri Lanka. Tap places on the map or search below — your fare updates live and nothing is charged online.
         </SectionHead>
 
         {/* Stepper */}

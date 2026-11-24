@@ -74,7 +74,7 @@ export function Fleet() {
     <section id="fleet" className="relative py-24">
       <div className="mx-auto max-w-7xl px-4 sm:px-6">
         <div className="flex flex-wrap items-end justify-between gap-6">
-          <SectionHead index="03" kicker="Find your perfect ride" title={<>Room for every <em className="font-serif font-normal text-neon">kind</em> of adventure.</>} />
+          <SectionHead index="03" kicker="Cars, SUVs & vans with driver" title={<>Room for every <em className="font-serif font-normal text-neon">kind</em> of adventure.</>} />
           <p className="reveal mb-12 max-w-xs font-mono text-xs leading-relaxed text-mute">
             FAIR, TRANSPARENT PER-KM RATES. NO HIDDEN COSTS — YOUR FULL FARE IS SHOWN BEFORE YOU BOOK.
           </p>
@@ -191,7 +191,7 @@ export function About() {
     <section id="about" className="relative py-24">
       <div className="mx-auto grid max-w-7xl items-center gap-12 px-4 sm:px-6 lg:grid-cols-2">
         <div>
-          <SectionHead index="06" kicker="A local way to go" title={<>It's not just getting there. It's the <em className="font-serif font-normal text-neon">drive.</em></>}>
+          <SectionHead index="07" kicker="A local way to go" title={<>It's not just getting there. It's the <em className="font-serif font-normal text-neon">drive.</em></>}>
             With 5+ years on Sri Lankan roads, Hashi Cab is about a simple promise: honest prices and drivers you'd trust with your family —
             whether you're visiting ancient temples, pristine beaches or the misty hill country.
           </SectionHead>

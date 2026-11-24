@@ -26,7 +26,7 @@ export default function Reviews({ data }) {
     <section id="reviews" className="relative overflow-hidden py-24">
       <div className="pointer-events-none absolute top-1/3 -left-40 h-[500px] w-[500px] rounded-full bg-neon/10 blur-[120px]" />
       <div className="relative mx-auto max-w-7xl px-4 sm:px-6">
-        <SectionHead index="05" kicker="What riders say" title={<>Rated by <em className="font-serif font-normal text-neon">real</em> passengers.</>} />
+        <SectionHead index="06" kicker="What riders say" title={<>Rated by <em className="font-serif font-normal text-neon">real</em> passengers.</>} />
 
         <div className="grid gap-6 lg:grid-cols-[360px_1fr]">
           {/* Google summary card */}
